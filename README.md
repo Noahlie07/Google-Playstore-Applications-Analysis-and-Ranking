@@ -11,6 +11,6 @@ It is recommended to go through AndroidAppsComprehensiveAnalysis.ipynb, as this 
 Skills: Python Pandas, Python Numpy, Python Scikit-Learn, Python Matplotlib
 
 ## Datasets Used
-Two datasets are used for this project.
-One dataset contains details regarding each applications, including the following columns: ['App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type', 'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver', 'Android Ver'].
-The other dataset contains written reviews of each application, including the following columns: ['App', 'Translated_Review', 'Sentiment', 'Sentiment_Polarity', 'Sentiment_Subjectivity'].
+Two datasets are used for this project.  
+One dataset contains details regarding each applications, including the following columns: ['App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type', 'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver', 'Android Ver'].  
+The other dataset contains written reviews of each application, including the following columns: ['App', 'Translated_Review', 'Sentiment', 'Sentiment_Polarity', 'Sentiment_Subjectivity'].  
